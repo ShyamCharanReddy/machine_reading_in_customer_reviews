@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.2
+langchain==0.1.0
+langchain-community==0.0.9
+nltk
+transformers
+torch
+scikit-learn
+shap
+beautifulsoup4
+requests
+langchain-google-genai
+python-dotenv
